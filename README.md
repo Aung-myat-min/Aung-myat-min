@@ -7,9 +7,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aung-myat-min&label=Profile%20views&color=0e75b6&style=flat" alt="aung-myat-min" /> </p>
 
-- 🔭 I’m currently working on Shwe Du Wun. [Mom-website](https://github.com/Aung-myat-min/Mom-Website.git)
+- 🔭 I’m currently working on [Undefined Creations](https://github.com/Undefined-Creations).
 
-- 🌱 I’m currently learning **AI, Backend**
+- 🌱 I’m currently learning **AI, Backend(Nextjs)**
 
 - 👯 I’m looking to collaborate on **Machine Learning Projects.**
 
