@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aung Myat Min <img src="https://media.tenor.com/CWLVqhCZUI8AAAAC/emoji-animated.gif" style="width: 100px;float:right;"></h1>
-<h3 align="center">A Web developer from Myanmar. I can write both frontend and backend. </h3>
+<h3 align="center">A Web developer from Myanmar. I am special at backend and can also work as a full-stack dev. </h3>
 
 <br>
 
