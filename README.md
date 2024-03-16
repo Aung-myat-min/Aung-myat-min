@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **AI, Backend(Nextjs)**
 
-- 👯 I’m looking to collaborate on **Machine Learning Projects.**
+- 👯 I’m looking to collaborate on **Web Devlopment Projects.**
 
 - 💬 Ask me about **Python, JS and Frontend Languages**
 
