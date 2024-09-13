@@ -7,13 +7,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aung-myat-min&label=Profile%20views&color=0e75b6&style=flat" alt="aung-myat-min" /> </p>
 
-- 🔭 I’m currently working on [Undefined Creations](https://github.com/Undefined-Creations).
+- 🔭 I’m currently working for my career.
 
-- 🌱 I’m currently learning **AI, Backend(Nextjs)**
-
-- 👯 I’m looking to collaborate on **Web Devlopment Projects.**
-
-- 💬 Ask me about **Python, JS and Frontend Languages**
+- 🌱 I’m currently learning **Web Development (Next.js)**
 
 - 📫 How to reach me **koaungmyatmin0@gmail.com**
 
