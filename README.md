@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working for my career.
 
-- 🌱 I’m currently learning **Web Development (Next.js)**
+- 🌱 I’m currently learning **Backend Development - C#**
 
 - 📫 How to reach me **koaungmyatmin0@gmail.com**
 
